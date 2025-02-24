@@ -1,0 +1,7 @@
+fastapi
+pydantic
+spellchecker
+happytransformer
+nltk
+torch
+transformers
